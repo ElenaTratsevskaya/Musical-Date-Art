@@ -1,7 +1,9 @@
 # Musical-Data-Art
 Visualization of a song</br>
+Inspired by the lyrics of Sting's «Shape of My Heart»
+All musical rights remain with the authors and rights holders.</br>
 
-Визуализация создана во время и после Дата арт Воркшопа, проводимого Натальей Киселёвой в январе 2026 года.</br></br>
+Визуализация создана во время и после Дата арт Воркшопа, проводимого Натальей Киселёвой в январе 2026 года.</br>
 
 <div id="header" align="center">
   <img src="https://repository-images.githubusercontent.com/182914159/fccef180-67ab-11e9-8dac-17c48c79065b" title="google" width="64" height="40"/>&nbsp;
